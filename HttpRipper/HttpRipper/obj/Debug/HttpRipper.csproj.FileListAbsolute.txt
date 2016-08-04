@@ -1,0 +1,9 @@
+C:\Users\IC010911\Source\Repos\IoTech\HttpRipper\HttpRipper\bin\Debug\HttpRipper.exe.config
+C:\Users\IC010911\Source\Repos\IoTech\HttpRipper\HttpRipper\bin\Debug\HttpRipper.exe
+C:\Users\IC010911\Source\Repos\IoTech\HttpRipper\HttpRipper\bin\Debug\HttpRipper.pdb
+C:\Users\IC010911\Source\Repos\IoTech\HttpRipper\HttpRipper\obj\Debug\HttpRipper.Form1.resources
+C:\Users\IC010911\Source\Repos\IoTech\HttpRipper\HttpRipper\obj\Debug\HttpRipper.Properties.Resources.resources
+C:\Users\IC010911\Source\Repos\IoTech\HttpRipper\HttpRipper\obj\Debug\HttpRipper.csproj.GenerateResource.Cache
+C:\Users\IC010911\Source\Repos\IoTech\HttpRipper\HttpRipper\obj\Debug\HttpRipper.exe
+C:\Users\IC010911\Source\Repos\IoTech\HttpRipper\HttpRipper\obj\Debug\HttpRipper.pdb
+C:\Users\IC010911\Source\Repos\IoTech\HttpRipper\HttpRipper\obj\Debug\HttpRipper.csprojResolveAssemblyReference.cache
