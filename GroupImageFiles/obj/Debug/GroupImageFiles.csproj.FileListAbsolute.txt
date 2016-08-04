@@ -1,0 +1,13 @@
+D:\VS Projects\GroupImageFiles\bin\Debug\GroupImageFiles.exe.config
+D:\VS Projects\GroupImageFiles\bin\Debug\GroupImageFiles.exe
+D:\VS Projects\GroupImageFiles\bin\Debug\GroupImageFiles.pdb
+D:\VS Projects\GroupImageFiles\obj\Debug\GroupImageFiles.csprojResolveAssemblyReference.cache
+D:\VS Projects\GroupImageFiles\obj\Debug\MainWindow.baml
+D:\VS Projects\GroupImageFiles\obj\Debug\MainWindow.g.cs
+D:\VS Projects\GroupImageFiles\obj\Debug\App.g.cs
+D:\VS Projects\GroupImageFiles\obj\Debug\GroupImageFiles_MarkupCompile.cache
+D:\VS Projects\GroupImageFiles\obj\Debug\GroupImageFiles.g.resources
+D:\VS Projects\GroupImageFiles\obj\Debug\GroupImageFiles.Properties.Resources.resources
+D:\VS Projects\GroupImageFiles\obj\Debug\GroupImageFiles.csproj.GenerateResource.Cache
+D:\VS Projects\GroupImageFiles\obj\Debug\GroupImageFiles.exe
+D:\VS Projects\GroupImageFiles\obj\Debug\GroupImageFiles.pdb

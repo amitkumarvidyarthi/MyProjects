@@ -1,0 +1,33 @@
+﻿<Window x:Class="GroupImageFiles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Name="SelectedPath" Content="&lt;&lt;Selected Path&gt;&gt;" HorizontalAlignment="Left" Margin="32,24,0,0" VerticalAlignment="Top" Width="366" UseLayoutRounding="False"/>
+        <Button Content="Browse" VerticalAlignment="Top" Margin="0,24,10,0" Click="Button_Click" HorizontalAlignment="Right" Width="75"/>
+        <Button Name="BtnOrganize" Content="Organize" VerticalAlignment="Top" Margin="0,63,10,0" Click="BtnOrganize_Click" HorizontalAlignment="Right" Width="75" />
+
+        <ListView Name="ListView1" Margin="19,63,108,31">
+            <ListView.View>
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Authors">
+
+                    <!-- Add a ContextMenu to GridView Header -->
+                    <GridView.ColumnHeaderContextMenu>
+                        <ContextMenu >
+                            <MenuItem Header="Ascending" Click="MenuItem_Click" />
+                            <MenuItem Header="Descending" />
+                        </ContextMenu>
+                    </GridView.ColumnHeaderContextMenu>
+                    <!-- Add GridVeiw Columns -->
+                    <GridViewColumn Header="DateTime" Width="100"  DisplayMemberBinding="{Binding Path=Key}" />
+                    <GridViewColumn Header="ListOfFiles" Width="Auto" DisplayMemberBinding="{Binding Path=Value}" />
+                    <!--<GridViewColumn Header="Book" DisplayMemberBinding="{Binding Path=Book}" />-->
+                    <!--<GridViewColumn Header="MVP" DisplayMemberBinding="{Binding Path=Mvp}" />-->
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Name="CreateIt" Content="Create It" Margin="0,108,10,0" VerticalAlignment="Top" Click="CreateIt_Click" HorizontalAlignment="Right" Width="75"/>
+
+    </Grid>
+</Window>
